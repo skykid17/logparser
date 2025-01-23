@@ -1,0 +1,1046 @@
+2025-01-19 00:00:00 INFO [xm_fileop|_fileop] LogFile /opt/nxlog/var/log/nxlog/nxlog.log reopened
+2025-01-19 00:29:19 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 00:29:19 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 00:29:19 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 00:29:19 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 00:29:19 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 00:29:19 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 00:29:19 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 00:29:19 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 01:18:38 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40250
+2025-01-19 01:21:44 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40248: Connection timed out
+2025-01-19 02:17:03 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36188
+2025-01-19 02:44:45 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 02:44:45 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 02:44:45 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 02:44:45 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 02:44:45 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 02:44:45 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 02:44:45 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 02:44:45 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 03:10:45 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:42892: End of file found
+2025-01-19 03:15:20 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36130: Connection timed out
+2025-01-19 03:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:52502
+2025-01-19 03:28:02 INFO [im_file|messages] inode changed for '/var/log/messages' (73->92): reopening possibly rotated file
+2025-01-19 03:28:02 INFO [im_file|messages] inode changed for '/var/log/secure' (76->93): reopening possibly rotated file
+2025-01-19 03:28:04 INFO [im_file|messages] inode changed for '/var/log/cron' (48->49): reopening possibly rotated file
+2025-01-19 03:30:15 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40252
+2025-01-19 03:32:49 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40250: Connection timed out
+2025-01-19 04:16:30 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:55392: Connection timed out
+2025-01-19 05:00:12 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 05:00:12 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 05:00:12 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 05:00:12 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 05:00:12 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 05:00:12 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 05:00:12 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 05:00:12 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 05:08:52 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52111: Connection reset by peer
+2025-01-19 05:08:57 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52180
+2025-01-19 05:09:00 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52180: Connection reset by peer
+2025-01-19 05:09:05 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52181
+2025-01-19 05:41:52 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40254
+2025-01-19 05:43:53 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40252: Connection timed out
+2025-01-19 06:09:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52181: Connection reset by peer
+2025-01-19 06:09:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52194
+2025-01-19 06:09:35 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52194: Connection reset by peer
+2025-01-19 06:09:40 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52195
+2025-01-19 07:15:38 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 07:15:38 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 07:15:38 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 07:15:38 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 07:15:38 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 07:15:38 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 07:15:38 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 07:15:38 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 07:17:03 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36212
+2025-01-19 07:53:29 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40256
+2025-01-19 07:54:57 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40254: Connection timed out
+2025-01-19 08:00:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52195: Connection reset by peer
+2025-01-19 08:00:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52218
+2025-01-19 08:16:48 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36188: Connection timed out
+2025-01-19 08:30:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52218: Connection reset by peer
+2025-01-19 08:31:17 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52226
+2025-01-19 09:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:37972
+2025-01-19 09:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:43876
+2025-01-19 09:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36236
+2025-01-19 09:31:04 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 09:31:04 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 09:31:04 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 09:31:04 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 09:31:04 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 09:31:04 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 09:31:04 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 09:31:04 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 10:05:06 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40258
+2025-01-19 10:06:02 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40256: Connection timed out
+2025-01-19 10:14:46 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:40436: Connection timed out
+2025-01-19 10:14:46 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36212: Connection timed out
+2025-01-19 10:14:46 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:44294: Connection timed out
+2025-01-19 11:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.53:44508
+2025-01-19 11:46:31 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 11:46:31 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 11:46:31 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 11:46:31 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 11:46:31 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 11:46:31 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 11:46:31 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 11:46:31 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 12:12:44 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.53:55434: Connection timed out
+2025-01-19 12:16:43 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40260
+2025-01-19 12:16:53 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:47892
+2025-01-19 12:17:03 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36238
+2025-01-19 12:17:06 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40258: Connection timed out
+2025-01-19 13:13:54 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:37972: Connection timed out
+2025-01-19 13:13:54 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36236: Connection timed out
+2025-01-19 14:01:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52226: Connection reset by peer
+2025-01-19 14:01:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52293
+2025-01-19 14:01:35 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52293: Connection reset by peer
+2025-01-19 14:01:40 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52294
+2025-01-19 14:01:57 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 14:01:57 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 14:01:57 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 14:01:57 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 14:01:57 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 14:01:57 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 14:01:57 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 14:01:57 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 14:05:38 INFO [im_tcp|input1514] connection accepted from 192.168.40.135:50147
+2025-01-19 14:16:50 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:37122
+2025-01-19 14:28:20 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40262
+2025-01-19 14:32:32 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40260: Connection timed out
+2025-01-19 15:02:04 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52294: Connection reset by peer
+2025-01-19 15:02:09 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52307
+2025-01-19 15:02:19 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52307: Connection reset by peer
+2025-01-19 15:02:25 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52308
+2025-01-19 15:16:14 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:43876: Connection timed out
+2025-01-19 15:16:14 ERROR [im_tcp|input2514] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-19 15:16:55 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:43666
+2025-01-19 16:13:02 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:47892: Connection timed out
+2025-01-19 16:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36260
+2025-01-19 16:17:24 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 16:17:24 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 16:17:24 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 16:17:24 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 16:17:24 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 16:17:24 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 16:17:24 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 16:17:24 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 16:32:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52308: Connection reset by peer
+2025-01-19 16:33:07 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52328
+2025-01-19 16:39:57 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40264
+2025-01-19 16:43:37 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40262: Connection timed out
+2025-01-19 17:03:06 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52328: Connection reset by peer
+2025-01-19 17:03:11 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52335
+2025-01-19 17:03:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52335: Connection reset by peer
+2025-01-19 17:03:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52336
+2025-01-19 17:14:12 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36238: Connection timed out
+2025-01-19 17:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:43288
+2025-01-19 17:33:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52336: Connection reset by peer
+2025-01-19 17:33:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52343
+2025-01-19 17:34:06 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52343: Connection reset by peer
+2025-01-19 17:34:11 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52344
+2025-01-19 18:04:21 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52344: Connection reset by peer
+2025-01-19 18:04:27 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52352
+2025-01-19 18:04:30 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52352: Connection reset by peer
+2025-01-19 18:04:35 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52353
+2025-01-19 18:15:22 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:40644: Connection timed out
+2025-01-19 18:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:34060
+2025-01-19 18:32:50 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 18:32:50 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 18:32:50 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 18:32:50 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 18:32:50 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 18:32:50 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 18:32:50 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 18:32:50 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 18:51:34 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40266
+2025-01-19 18:54:41 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40264: Connection timed out
+2025-01-19 19:04:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52353: Connection reset by peer
+2025-01-19 19:04:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52367
+2025-01-19 19:05:06 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52367: Connection reset by peer
+2025-01-19 19:05:11 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52368
+2025-01-19 19:16:32 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:43666: Connection timed out
+2025-01-19 19:16:50 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:43428
+2025-01-19 19:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.52:50514
+2025-01-19 19:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:50372
+2025-01-19 19:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:46718
+2025-01-19 19:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36284
+2025-01-19 19:35:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52368: Connection reset by peer
+2025-01-19 19:35:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52375
+2025-01-19 19:35:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52375: Connection reset by peer
+2025-01-19 19:35:38 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52376
+2025-01-19 20:13:20 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:39490: Connection timed out
+2025-01-19 20:13:20 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36260: Connection timed out
+2025-01-19 20:13:20 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:52000: Connection timed out
+2025-01-19 20:13:20 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:52502: Connection timed out
+2025-01-19 20:13:20 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.52:53632: Connection timed out
+2025-01-19 20:36:07 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52376: Connection reset by peer
+2025-01-19 20:36:13 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52389
+2025-01-19 20:36:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52389: Connection reset by peer
+2025-01-19 20:36:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52392
+2025-01-19 20:48:17 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 20:48:17 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 20:48:17 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 20:48:17 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 20:48:17 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 20:48:17 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 20:48:17 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 20:48:17 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 21:03:11 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40268
+2025-01-19 21:05:45 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40266: Connection timed out
+2025-01-19 21:06:35 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52392: Connection reset by peer
+2025-01-19 21:06:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52399
+2025-01-19 21:07:08 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52399: Connection reset by peer
+2025-01-19 21:07:13 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52400
+2025-01-19 21:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36312
+2025-01-19 21:37:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52400: Connection reset by peer
+2025-01-19 21:37:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52407
+2025-01-19 21:37:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52407: Connection reset by peer
+2025-01-19 21:37:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52408
+2025-01-19 22:08:09 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52408: Connection reset by peer
+2025-01-19 22:08:14 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52417
+2025-01-19 22:08:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52417: Connection reset by peer
+2025-01-19 22:08:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52418
+2025-01-19 22:15:40 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36284: Connection timed out
+2025-01-19 22:15:40 ERROR [im_tcp|input2514] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-19 22:16:53 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:58720
+2025-01-19 22:16:55 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:40664
+2025-01-19 22:38:31 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52418: Connection reset by peer
+2025-01-19 22:38:37 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52425
+2025-01-19 22:38:53 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52425: Connection reset by peer
+2025-01-19 22:38:58 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52426
+2025-01-19 23:03:43 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-19 23:03:43 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-19 23:03:43 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-19 23:03:43 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-19 23:03:43 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-19 23:03:43 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-19 23:03:43 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-19 23:03:43 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-19 23:09:09 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52426: Connection reset by peer
+2025-01-19 23:09:50 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52434
+2025-01-19 23:14:49 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40270
+2025-01-19 23:16:50 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:50372: Connection timed out
+2025-01-19 23:16:50 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40268: Connection timed out
+2025-01-19 23:16:50 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:34060: Connection timed out
+2025-01-19 23:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:59592
+2025-01-20 00:13:38 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:37122: Connection timed out
+2025-01-20 00:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36328
+2025-01-20 01:10:10 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52434: Connection reset by peer
+2025-01-20 01:11:14 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52461
+2025-01-20 01:14:48 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36312: Connection timed out
+2025-01-20 01:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:38038
+2025-01-20 01:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:53944
+2025-01-20 01:19:10 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 01:19:10 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 01:19:10 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 01:19:10 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 01:19:10 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 01:19:10 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 01:19:10 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 01:19:10 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 01:26:26 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40272
+2025-01-20 01:27:54 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40270: Connection timed out
+2025-01-20 02:15:58 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:40664: Connection timed out
+2025-01-20 02:15:58 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:43428: Connection timed out
+2025-01-20 02:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:59426
+2025-01-20 03:11:11 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52461: Connection reset by peer
+2025-01-20 03:11:16 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52486
+2025-01-20 03:11:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52486: Connection reset by peer
+2025-01-20 03:11:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52487
+2025-01-20 03:12:45 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:54482: Connection timed out
+2025-01-20 03:20:45 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:50147: End of file found
+2025-01-20 03:34:36 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 03:34:36 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 03:34:36 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 03:34:36 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 03:34:36 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 03:34:36 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 03:34:36 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 03:34:36 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 03:38:03 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40274
+2025-01-20 03:38:58 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40272: Connection timed out
+2025-01-20 03:41:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52487: Connection reset by peer
+2025-01-20 03:42:17 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52495
+2025-01-20 04:42:12 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52495: Connection reset by peer
+2025-01-20 04:42:17 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52508
+2025-01-20 04:42:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52508: Connection reset by peer
+2025-01-20 04:42:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52509
+2025-01-20 05:42:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52509: Connection reset by peer
+2025-01-20 05:42:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52522
+2025-01-20 05:43:12 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52522: Connection reset by peer
+2025-01-20 05:43:17 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52523
+2025-01-20 05:49:40 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40276
+2025-01-20 05:50:03 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 05:50:03 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 05:50:03 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40274: Connection timed out
+2025-01-20 05:50:03 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 05:50:03 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 05:50:03 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 05:50:03 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 05:50:03 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 05:50:03 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 06:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:36130
+2025-01-20 07:13:03 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:38038: Connection timed out
+2025-01-20 07:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:58458
+2025-01-20 07:16:53 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:38298
+2025-01-20 08:00:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52523: Connection reset by peer
+2025-01-20 08:00:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52552
+2025-01-20 08:01:17 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40278
+2025-01-20 08:05:29 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 08:05:29 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 08:05:29 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40276: Connection timed out
+2025-01-20 08:05:29 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 08:05:29 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 08:05:29 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 08:05:29 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 08:05:29 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 08:05:29 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 08:14:13 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:58720: Connection timed out
+2025-01-20 08:14:13 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:53944: Connection timed out
+2025-01-20 08:14:13 ERROR [im_tcp|input2514] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-20 08:30:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52552: Connection reset by peer
+2025-01-20 08:30:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52559
+2025-01-20 08:31:13 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52559: Connection reset by peer
+2025-01-20 08:31:18 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52560
+2025-01-20 09:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36394
+2025-01-20 09:31:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52560: Connection reset by peer
+2025-01-20 09:32:07 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52574
+2025-01-20 10:12:54 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40280
+2025-01-20 10:16:33 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40278: Connection timed out
+2025-01-20 10:16:33 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36328: Connection timed out
+2025-01-20 10:20:56 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 10:20:56 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 10:20:56 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 10:20:56 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 10:20:56 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 10:20:56 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 10:20:56 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 10:20:56 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 10:44:51 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.15:54030: End of file found
+2025-01-20 10:48:11 INFO [im_tcp|input1514] connection accepted from 192.168.40.15:49737
+2025-01-20 11:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:53140
+2025-01-20 12:14:31 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:43288: Connection timed out
+2025-01-20 12:24:31 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40282
+2025-01-20 12:27:38 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40280: Connection timed out
+2025-01-20 12:36:22 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 12:36:22 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 12:36:22 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 12:36:22 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 12:36:22 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 12:36:22 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 12:36:22 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 12:36:22 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 13:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:45350
+2025-01-20 13:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:39444
+2025-01-20 14:05:39 INFO [im_tcp|input1514] connection accepted from 192.168.40.135:52662
+2025-01-20 14:11:46 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.1:56686: End of file found
+2025-01-20 14:11:47 INFO [im_tcp|input1514] connection accepted from 192.168.10.1:34942
+2025-01-20 14:16:51 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:59426: Connection timed out
+2025-01-20 14:16:51 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:46718: Connection timed out
+2025-01-20 14:32:17 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52574: Connection reset by peer
+2025-01-20 14:32:22 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52635
+2025-01-20 14:32:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52635: Connection reset by peer
+2025-01-20 14:32:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52636
+2025-01-20 14:36:08 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40284
+2025-01-20 14:51:49 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 14:51:49 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 14:51:49 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 14:51:49 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 14:51:49 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 14:51:49 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 14:51:49 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 14:52:19 ERROR [om_tcp|3214_to_hf] couldn't connect to 192.168.30.61:3214;The timeout specified has expired
+2025-01-20 14:52:19 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 in 1 sec
+2025-01-20 14:52:20 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 14:52:20 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 15:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:39114
+2025-01-20 15:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:43552
+2025-01-20 16:14:49 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:58458: Connection timed out
+2025-01-20 16:14:49 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:39444: Connection timed out
+2025-01-20 16:47:45 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40286
+2025-01-20 16:49:46 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40284: Connection timed out
+2025-01-20 17:00:05 INFO [im_tcp|input1514] connection accepted from 192.168.10.96:51012
+2025-01-20 17:00:10 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:10 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 (last connection attempt was 885003 sec ago)
+2025-01-20 17:00:10 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:10 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:13 WARNING [om_tcp|to_wazuh] TCP connection closed from 192.168.30.82:514: Connection reset by peer
+2025-01-20 17:00:13 ERROR [om_tcp|to_wazuh] send failed: Broken pipe
+2025-01-20 17:00:13 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 (last connection attempt was 2 sec ago)
+2025-01-20 17:00:13 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:13 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:13 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:13 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 1 sec
+2025-01-20 17:00:14 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:14 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:14 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:14 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 2 sec
+2025-01-20 17:00:16 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:16 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:16 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:16 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 4 sec
+2025-01-20 17:00:20 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:20 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:20 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:20 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 8 sec
+2025-01-20 17:00:28 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:28 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:28 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:28 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 16 sec
+2025-01-20 17:00:44 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:00:44 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:00:44 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:00:44 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 32 sec
+2025-01-20 17:01:16 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:01:16 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:01:16 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:01:16 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 64 sec
+2025-01-20 17:02:20 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:02:20 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:02:20 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:02:20 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 128 sec
+2025-01-20 17:04:28 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:04:28 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:04:31 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:04:31 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:07:15 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 17:07:15 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 17:07:15 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 17:07:15 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8095 sec ago)
+2025-01-20 17:07:15 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 17:07:15 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 17:07:15 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 17:07:15 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 17:07:51 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:07:51 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:07:51 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:07:51 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:11:11 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:11:11 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:11:11 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:11:11 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:14:31 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:14:31 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:14:31 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:14:31 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:16:50 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:51946
+2025-01-20 17:17:51 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:17:51 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:17:51 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:17:51 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:21:11 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:21:11 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 17:21:11 ERROR [om_tcp|to_wazuh] send failed: Connection reset by peer
+2025-01-20 17:21:11 INFO [om_tcp|to_wazuh] reconnecting to 192.168.30.82:514 in 200 sec
+2025-01-20 17:24:31 INFO [om_tcp|to_wazuh] connecting to 192.168.30.82:514
+2025-01-20 17:24:31 INFO [om_tcp|to_wazuh] tcp connection established with 192.168.30.82:514
+2025-01-20 18:02:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52636: Connection reset by peer
+2025-01-20 18:02:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52680
+2025-01-20 18:03:07 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52680: Connection reset by peer
+2025-01-20 18:03:12 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52682
+2025-01-20 18:12:47 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:36130: Connection timed out
+2025-01-20 18:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:40794
+2025-01-20 18:59:22 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40288
+2025-01-20 19:00:51 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40286: Connection timed out
+2025-01-20 19:00:51 ERROR [im_tcp|input3214] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-20 19:13:57 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:39114: Connection timed out
+2025-01-20 19:17:04 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36440
+2025-01-20 19:22:41 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 19:22:41 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 19:22:41 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 19:22:41 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 19:22:41 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 19:22:41 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 19:22:41 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 19:22:41 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 20:03:19 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52682: Connection reset by peer
+2025-01-20 20:04:00 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52708
+2025-01-20 20:15:07 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36394: Connection timed out
+2025-01-20 20:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:56046
+2025-01-20 21:10:59 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40290
+2025-01-20 21:11:55 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40288: Connection timed out
+2025-01-20 21:11:55 ERROR [im_tcp|input3214] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-20 21:16:17 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:40794: Connection timed out
+2025-01-20 21:17:05 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36462
+2025-01-20 21:34:20 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52708: Connection reset by peer
+2025-01-20 21:34:25 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52727
+2025-01-20 21:34:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52727: Connection reset by peer
+2025-01-20 21:34:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52728
+2025-01-20 21:38:08 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 21:38:08 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 21:38:08 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 21:38:08 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 21:38:08 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 21:38:08 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 21:38:08 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 21:38:08 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-20 22:16:50 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:59922
+2025-01-20 22:17:27 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36440: Connection timed out
+2025-01-20 23:00:10 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.96:37398: End of file found
+2025-01-20 23:01:09 INFO [im_tcp|input1514] connection accepted from 192.168.10.96:40186
+2025-01-20 23:14:15 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:38298: Connection timed out
+2025-01-20 23:17:05 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36464
+2025-01-20 23:22:36 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40292
+2025-01-20 23:22:59 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40290: Connection timed out
+2025-01-20 23:34:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52728: Connection reset by peer
+2025-01-20 23:35:17 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52756
+2025-01-20 23:53:34 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-20 23:53:34 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-20 23:53:34 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-20 23:53:34 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-20 23:53:34 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-20 23:53:34 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-20 23:53:34 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-20 23:53:34 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 00:15:25 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36462: Connection timed out
+2025-01-21 01:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.52:35520
+2025-01-21 01:34:14 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40294
+2025-01-21 01:38:26 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40292: Connection timed out
+2025-01-21 02:09:01 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 02:09:01 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 02:09:01 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 02:09:01 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 02:09:01 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 02:09:01 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 02:09:01 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 02:09:01 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 02:13:23 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.52:50514: Connection timed out
+2025-01-21 02:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:43854
+2025-01-21 02:17:05 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36502
+2025-01-21 03:06:47 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52756: Connection reset by peer
+2025-01-21 03:06:52 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52799
+2025-01-21 03:07:22 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52799: Connection reset by peer
+2025-01-21 03:07:28 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52800
+2025-01-21 03:14:33 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36464: Connection timed out
+2025-01-21 03:14:33 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:45350: Connection timed out
+2025-01-21 03:31:58 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:52662: End of file found
+2025-01-21 03:37:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52800: Connection reset by peer
+2025-01-21 03:37:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52807
+2025-01-21 03:38:23 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52807: Connection reset by peer
+2025-01-21 03:39:04 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52809
+2025-01-21 03:45:51 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40296
+2025-01-21 03:49:30 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40294: Connection timed out
+2025-01-21 04:24:27 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 04:24:27 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 04:24:27 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 04:24:27 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 04:24:27 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 04:24:27 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 04:24:27 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 04:24:27 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 05:08:55 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52809: Connection reset by peer
+2025-01-21 05:09:01 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52828
+2025-01-21 05:09:24 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52828: Connection reset by peer
+2025-01-21 05:09:29 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52829
+2025-01-21 05:57:28 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40298
+2025-01-21 06:00:34 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40296: Connection timed out
+2025-01-21 06:17:06 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36526
+2025-01-21 06:39:54 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 06:39:54 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 06:39:54 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 06:39:54 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 06:39:54 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 06:39:54 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 06:39:54 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 06:39:54 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 07:14:51 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36502: Connection timed out
+2025-01-21 07:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.52:60320
+2025-01-21 08:00:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52829: Connection reset by peer
+2025-01-21 08:00:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52866
+2025-01-21 08:09:05 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40300
+2025-01-21 08:11:39 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40298: Connection timed out
+2025-01-21 08:16:01 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.52:35520: Connection timed out
+2025-01-21 08:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:34370
+2025-01-21 08:31:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52866: Connection reset by peer
+2025-01-21 08:31:54 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52873
+2025-01-21 08:55:20 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 08:55:20 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 08:55:20 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 08:55:20 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 08:55:20 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 08:55:20 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 08:55:20 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 08:55:20 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 09:02:26 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52873: Connection reset by peer
+2025-01-21 09:02:31 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52880
+2025-01-21 09:02:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52880: Connection reset by peer
+2025-01-21 09:02:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:52881
+2025-01-21 09:12:49 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:59922: Connection timed out
+2025-01-21 09:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:57108
+2025-01-21 09:17:05 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36550
+2025-01-21 10:13:59 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:43854: Connection timed out
+2025-01-21 10:13:59 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36526: Connection timed out
+2025-01-21 10:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:59776
+2025-01-21 10:20:42 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40302
+2025-01-21 10:22:43 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40300: Connection timed out
+2025-01-21 11:10:47 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 11:10:47 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 11:10:47 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 11:10:47 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 11:10:47 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 11:10:47 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 11:10:47 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 11:10:47 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 11:15:09 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:51946: Connection timed out
+2025-01-21 11:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:42036
+2025-01-21 11:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:58734
+2025-01-21 11:17:06 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36552
+2025-01-21 11:19:27 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.1:34942: End of file found
+2025-01-21 11:19:29 INFO [im_tcp|input1514] connection accepted from 192.168.10.1:56460
+2025-01-21 12:16:19 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36550: Connection timed out
+2025-01-21 12:16:19 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:53140: Connection timed out
+2025-01-21 12:16:19 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:43552: Connection timed out
+2025-01-21 12:16:53 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:37512
+2025-01-21 12:32:19 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40304
+2025-01-21 12:33:47 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40302: Connection timed out
+2025-01-21 12:33:47 ERROR [im_tcp|input3214] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-21 13:26:13 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 13:26:13 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 13:26:13 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 13:26:13 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 13:26:13 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 13:26:13 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 13:26:13 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 13:26:13 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 13:54:29 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:49255
+2025-01-21 14:05:40 INFO [im_tcp|input1514] connection accepted from 192.168.40.135:60417
+2025-01-21 14:09:55 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:63812: Connection timed out
+2025-01-21 14:09:55 ERROR [im_tcp|input12014] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-21 14:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:59520
+2025-01-21 14:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:46690
+2025-01-21 14:43:56 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40306
+2025-01-21 14:44:52 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40304: Connection timed out
+2025-01-21 15:15:27 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:56046: Connection timed out
+2025-01-21 15:15:27 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:59592: Connection timed out
+2025-01-21 15:41:40 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 15:41:40 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 15:41:40 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 15:41:40 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 15:41:40 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 15:41:40 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 15:41:40 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 15:41:40 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 15:54:39 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:51363
+2025-01-21 16:07:52 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:49255: Connection timed out
+2025-01-21 16:16:53 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:59038
+2025-01-21 16:17:06 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36574
+2025-01-21 16:55:33 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40308
+2025-01-21 16:55:56 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40306: Connection timed out
+2025-01-21 17:10:24 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.1:56460: End of file found
+2025-01-21 17:10:26 INFO [im_tcp|input1514] connection accepted from 192.168.10.1:41036
+2025-01-21 17:13:25 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36552: Connection timed out
+2025-01-21 17:13:25 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:34370: Connection timed out
+2025-01-21 17:16:51 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:55564
+2025-01-21 17:54:50 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:53413
+2025-01-21 17:57:06 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 17:57:06 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 17:57:06 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 17:57:06 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 17:57:06 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 17:57:06 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 17:57:06 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 17:57:06 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 18:10:13 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:51363: Connection timed out
+2025-01-21 18:14:35 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:37512: Connection timed out
+2025-01-21 18:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:51028
+2025-01-21 18:17:07 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36598
+2025-01-21 19:03:04 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:52881: Connection reset by peer
+2025-01-21 19:03:09 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53004
+2025-01-21 19:07:10 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40310
+2025-01-21 19:11:23 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40308: Connection timed out
+2025-01-21 19:15:45 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36574: Connection timed out
+2025-01-21 19:15:45 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:59520: Connection timed out
+2025-01-21 19:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.53:47240
+2025-01-21 19:33:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53004: Connection reset by peer
+2025-01-21 19:33:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53011
+2025-01-21 19:55:00 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:55420
+2025-01-21 20:08:10 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:53413: Connection timed out
+2025-01-21 20:12:33 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 20:12:33 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 20:12:33 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 20:12:33 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 20:12:33 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 20:12:33 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 20:12:33 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 20:12:33 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 20:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:58012
+2025-01-21 20:16:55 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:59464
+2025-01-21 20:16:55 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.53:44508: Connection timed out
+2025-01-21 21:13:43 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:51028: Connection timed out
+2025-01-21 21:13:43 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:42036: Connection timed out
+2025-01-21 21:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:49162
+2025-01-21 21:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:38492
+2025-01-21 21:17:06 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36620
+2025-01-21 21:18:47 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40312
+2025-01-21 21:22:27 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40310: Connection timed out
+2025-01-21 21:33:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53011: Connection reset by peer
+2025-01-21 21:33:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53036
+2025-01-21 21:34:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53036: Connection reset by peer
+2025-01-21 21:34:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53037
+2025-01-21 21:34:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53037: Connection reset by peer
+2025-01-21 21:34:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53038
+2025-01-21 21:55:10 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:57450
+2025-01-21 22:10:30 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:55420: Connection timed out
+2025-01-21 22:10:30 ERROR [im_tcp|input12014] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-21 22:14:53 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:46690: Connection timed out
+2025-01-21 22:14:53 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36598: Connection timed out
+2025-01-21 22:14:53 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:57108: Connection timed out
+2025-01-21 22:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:57412
+2025-01-21 22:27:59 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-21 22:27:59 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-21 22:27:59 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-21 22:27:59 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-21 22:27:59 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-21 22:27:59 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-21 22:27:59 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-21 22:27:59 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-21 23:16:03 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:58012: Connection timed out
+2025-01-21 23:16:03 ERROR [im_tcp|input3114] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-21 23:16:51 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:55118
+2025-01-21 23:30:24 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40314
+2025-01-21 23:33:31 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40312: Connection timed out
+2025-01-21 23:33:31 ERROR [im_tcp|input3214] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-21 23:35:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53038: Connection reset by peer
+2025-01-21 23:35:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53065
+2025-01-21 23:35:33 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53065: Connection reset by peer
+2025-01-21 23:35:39 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53066
+2025-01-21 23:55:20 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:59466
+2025-01-22 00:08:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:57450: Connection timed out
+2025-01-22 00:12:50 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:59038: Connection timed out
+2025-01-22 00:12:50 ERROR [im_tcp|input2514] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-22 00:43:25 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 00:43:25 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 00:43:25 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 00:43:25 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 00:43:25 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 00:43:25 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 00:43:25 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 00:43:25 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 00:50:58 INFO [im_tcp|input1514] connection accepted from 192.168.40.135:49589
+2025-01-22 01:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:50640
+2025-01-22 01:42:02 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40316
+2025-01-22 01:44:35 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40314: Connection timed out
+2025-01-22 01:55:30 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:61513
+2025-01-22 02:10:48 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:59466: Connection timed out
+2025-01-22 02:15:10 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:55118: Connection timed out
+2025-01-22 02:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:48958
+2025-01-22 02:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:60212
+2025-01-22 02:17:06 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36658
+2025-01-22 02:58:52 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 02:58:52 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 02:58:52 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 02:58:52 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 02:58:52 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 02:58:52 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 02:58:52 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 02:58:52 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 03:06:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53066: Connection reset by peer
+2025-01-22 03:06:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53109
+2025-01-22 03:06:34 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53109: Connection reset by peer
+2025-01-22 03:06:39 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53110
+2025-01-22 03:16:21 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36620: Connection timed out
+2025-01-22 03:16:21 ERROR [im_tcp|input2514] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-22 03:16:21 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:55564: Connection timed out
+2025-01-22 03:16:21 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:38492: Connection timed out
+2025-01-22 03:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:53278
+2025-01-22 03:40:45 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:49589: End of file found
+2025-01-22 03:40:45 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:60417: End of file found
+2025-01-22 03:53:39 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40318
+2025-01-22 03:55:40 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40316: Connection timed out
+2025-01-22 03:55:40 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:63392
+2025-01-22 04:08:46 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:61513: Connection timed out
+2025-01-22 04:13:08 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:49162: Connection timed out
+2025-01-22 04:13:08 ERROR [im_tcp|input3114] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-22 05:14:18 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 05:14:18 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 05:14:18 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 05:14:18 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 05:14:18 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 05:14:18 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 05:14:18 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 05:14:18 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 05:37:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53110: Connection reset by peer
+2025-01-22 05:37:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53141
+2025-01-22 05:37:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53141: Connection reset by peer
+2025-01-22 05:37:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53142
+2025-01-22 05:55:50 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:65291
+2025-01-22 06:05:16 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40320
+2025-01-22 06:06:44 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40318: Connection timed out
+2025-01-22 06:11:06 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:63392: Connection timed out
+2025-01-22 06:17:07 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36682
+2025-01-22 07:16:38 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36658: Connection timed out
+2025-01-22 07:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:42904
+2025-01-22 07:29:45 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 07:29:45 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 07:29:45 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 07:29:45 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 07:29:45 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 07:29:45 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 07:29:45 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 07:29:45 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 07:56:00 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:50780
+2025-01-22 08:00:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53142: Connection reset by peer
+2025-01-22 08:00:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53171
+2025-01-22 08:09:04 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:65291: Connection timed out
+2025-01-22 08:13:26 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:60212: Connection timed out
+2025-01-22 08:16:53 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40322
+2025-01-22 08:17:48 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40320: Connection timed out
+2025-01-22 09:00:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53171: Connection reset by peer
+2025-01-22 09:00:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53184
+2025-01-22 09:00:55 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53184: Connection reset by peer
+2025-01-22 09:01:00 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53185
+2025-01-22 09:16:51 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:49548
+2025-01-22 09:17:07 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36706
+2025-01-22 09:45:11 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 09:45:11 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 09:45:11 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 09:45:11 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 09:45:11 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 09:45:11 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 09:45:11 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 09:45:11 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 09:56:10 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:52625
+2025-01-22 10:11:24 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:50780: Connection timed out
+2025-01-22 10:15:46 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36682: Connection timed out
+2025-01-22 10:15:46 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:59464: Connection timed out
+2025-01-22 10:28:30 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40324
+2025-01-22 10:28:53 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40322: Connection timed out
+2025-01-22 11:17:07 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36708
+2025-01-22 11:31:01 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53185: Connection reset by peer
+2025-01-22 11:31:06 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53216
+2025-01-22 11:31:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53216: Connection reset by peer
+2025-01-22 11:31:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53217
+2025-01-22 11:31:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53217: Connection reset by peer
+2025-01-22 11:31:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53218
+2025-01-22 11:56:21 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:54541
+2025-01-22 12:00:38 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 12:00:38 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 12:00:38 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 12:00:38 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 12:00:38 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 12:00:38 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 12:00:38 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 12:00:38 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 12:09:22 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:52625: Connection timed out
+2025-01-22 12:13:44 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36706: Connection timed out
+2025-01-22 12:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:50850
+2025-01-22 12:40:07 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40326
+2025-01-22 12:44:19 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40324: Connection timed out
+2025-01-22 13:01:52 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53218: Connection reset by peer
+2025-01-22 13:01:57 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53237
+2025-01-22 13:02:04 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53237: Connection reset by peer
+2025-01-22 13:02:09 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53238
+2025-01-22 13:14:54 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:50640: Connection timed out
+2025-01-22 13:56:31 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:58708
+2025-01-22 14:05:41 INFO [im_tcp|input1514] connection accepted from 192.168.40.135:45990
+2025-01-22 14:11:42 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:54541: Connection timed out
+2025-01-22 14:16:04 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 14:16:04 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 14:16:04 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 14:16:04 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 14:16:04 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 14:16:04 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 14:16:04 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 14:16:04 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 14:16:50 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:42498
+2025-01-22 14:22:37 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.1:41036: End of file found
+2025-01-22 14:22:38 INFO [im_tcp|input1514] connection accepted from 192.168.10.1:48934
+2025-01-22 14:32:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53238: Connection reset by peer
+2025-01-22 14:32:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53257
+2025-01-22 14:32:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53257: Connection reset by peer
+2025-01-22 14:32:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53258
+2025-01-22 14:51:44 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40328
+2025-01-22 14:55:24 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40326: Connection timed out
+2025-01-22 15:03:08 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53258: Connection reset by peer
+2025-01-22 15:03:13 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53267
+2025-01-22 15:03:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53267: Connection reset by peer
+2025-01-22 15:03:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53268
+2025-01-22 15:12:52 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:57412: Connection timed out
+2025-01-22 15:44:22 WARNING [im_tcp|input1514] TCP connection closed from 192.168.10.1:48934: End of file found
+2025-01-22 15:44:23 INFO [im_tcp|input1514] connection accepted from 192.168.10.1:44712
+2025-01-22 15:56:41 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:60520
+2025-01-22 16:09:40 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:58708: Connection timed out
+2025-01-22 16:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:48762
+2025-01-22 16:17:08 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36730
+2025-01-22 16:31:31 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 16:31:31 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 16:31:31 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 16:31:31 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 16:31:31 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 16:31:31 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 16:31:31 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 16:31:31 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 16:33:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53268: Connection reset by peer
+2025-01-22 16:34:05 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53287
+2025-01-22 17:03:21 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40330
+2025-01-22 17:04:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53287: Connection reset by peer
+2025-01-22 17:04:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53294
+2025-01-22 17:04:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53294: Connection reset by peer
+2025-01-22 17:04:41 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53295
+2025-01-22 17:06:28 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40328: Connection timed out
+2025-01-22 17:15:12 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36708: Connection timed out
+2025-01-22 17:15:12 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:48958: Connection timed out
+2025-01-22 17:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:58746
+2025-01-22 17:56:51 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:62140
+2025-01-22 18:12:00 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:60520: Connection timed out
+2025-01-22 18:16:22 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:58734: Connection timed out
+2025-01-22 18:16:51 INFO [im_tcp|input2514] connection accepted from 192.168.20.221:40876
+2025-01-22 18:46:57 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 18:46:57 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 18:46:57 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 18:46:57 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 18:46:57 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 18:46:57 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 18:46:57 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 18:46:57 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 19:13:10 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.221:50850: Connection timed out
+2025-01-22 19:14:58 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40332
+2025-01-22 19:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:40320
+2025-01-22 19:17:32 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40330: Connection timed out
+2025-01-22 19:57:01 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:63693
+2025-01-22 20:04:43 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53295: Connection reset by peer
+2025-01-22 20:04:48 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53333
+2025-01-22 20:05:02 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53333: Connection reset by peer
+2025-01-22 20:05:07 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53335
+2025-01-22 20:09:58 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:62140: Connection timed out
+2025-01-22 20:14:20 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:53278: Connection timed out
+2025-01-22 20:17:12 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36754
+2025-01-22 21:02:24 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 21:02:24 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 21:02:24 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 21:02:24 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 21:02:24 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 21:02:24 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 21:02:24 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 21:02:24 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 21:15:30 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36730: Connection timed out
+2025-01-22 21:16:52 INFO [im_tcp|input2514] connection accepted from 192.168.20.225:57464
+2025-01-22 21:16:53 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:58096
+2025-01-22 21:26:35 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40334
+2025-01-22 21:28:37 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40332: Connection timed out
+2025-01-22 21:57:11 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:65242
+2025-01-22 22:12:18 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:63693: Connection timed out
+2025-01-22 22:16:40 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:42498: Connection timed out
+2025-01-22 22:16:40 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.225:49548: Connection timed out
+2025-01-22 22:16:54 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:52536
+2025-01-22 23:10:38 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53335: Connection reset by peer
+2025-01-22 23:10:43 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53372
+2025-01-22 23:10:45 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53372: Connection reset by peer
+2025-01-22 23:10:50 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53373
+2025-01-22 23:13:28 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:42904: Connection timed out
+2025-01-22 23:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:55558
+2025-01-22 23:17:08 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36776
+2025-01-22 23:17:50 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-22 23:17:50 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-22 23:17:50 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-22 23:17:50 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-22 23:17:50 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-22 23:17:50 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-22 23:17:50 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-22 23:17:50 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-22 23:38:12 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40336
+2025-01-22 23:39:41 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40334: Connection timed out
+2025-01-22 23:57:21 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:50449
+2025-01-23 00:10:16 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:65242: Connection timed out
+2025-01-23 00:14:38 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.222:36754: Connection timed out
+2025-01-23 00:14:38 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:58096: Connection timed out
+2025-01-23 00:41:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53373: Connection reset by peer
+2025-01-23 00:41:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53394
+2025-01-23 00:41:37 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53394: Connection reset by peer
+2025-01-23 00:41:42 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53395
+2025-01-23 01:11:46 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53395: Connection reset by peer
+2025-01-23 01:11:51 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53402
+2025-01-23 01:12:27 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53402: Connection reset by peer
+2025-01-23 01:12:32 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53403
+2025-01-23 01:16:51 INFO [im_tcp|input2514] connection accepted from 192.168.20.220:41044
+2025-01-23 01:16:51 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:42708
+2025-01-23 01:33:17 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-23 01:33:17 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-23 01:33:17 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-23 01:33:17 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-23 01:33:17 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-23 01:33:17 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-23 01:33:17 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-23 01:33:17 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-23 01:49:50 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40338
+2025-01-23 01:50:45 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40336: Connection timed out
+2025-01-23 01:57:31 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:52030
+2025-01-23 02:12:36 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:50449: Connection timed out
+2025-01-23 02:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.56:36716
+2025-01-23 02:16:58 WARNING [im_tcp|input2514] TCP connection closed from 192.168.20.220:52536: Connection timed out
+2025-01-23 02:16:58 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:40320: Connection timed out
+2025-01-23 03:13:46 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.56:48762: Connection timed out
+2025-01-23 03:48:43 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-23 03:48:43 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-23 03:48:43 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-23 03:48:43 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-23 03:48:43 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-23 03:48:43 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-23 03:48:43 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-23 03:48:43 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-23 03:50:45 WARNING [im_tcp|input1514] TCP connection closed from 192.168.40.135:45990: End of file found
+2025-01-23 03:57:42 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:53593
+2025-01-23 04:01:27 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40340
+2025-01-23 04:01:49 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40338: Connection timed out
+2025-01-23 04:10:34 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:52030: Connection timed out
+2025-01-23 04:12:38 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53403: Connection reset by peer
+2025-01-23 04:12:43 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53440
+2025-01-23 04:12:47 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53440: Connection reset by peer
+2025-01-23 04:12:52 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53441
+2025-01-23 05:57:52 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:55223
+2025-01-23 06:04:10 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-23 06:04:10 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-23 06:04:10 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-23 06:04:10 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-23 06:04:10 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-23 06:04:10 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-23 06:04:10 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-23 06:04:10 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-23 06:12:54 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:53593: Connection timed out
+2025-01-23 06:17:16 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40340: Connection timed out
+2025-01-23 07:00:02 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40342
+2025-01-23 07:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.55:59928
+2025-01-23 07:18:49 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53441: Connection reset by peer
+2025-01-23 07:18:54 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53480
+2025-01-23 07:18:59 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53480: Connection reset by peer
+2025-01-23 07:19:04 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53481
+2025-01-23 07:58:02 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:56894
+2025-01-23 08:00:28 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53481: Connection reset by peer
+2025-01-23 08:00:33 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53490
+2025-01-23 08:10:52 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:55223: Connection timed out
+2025-01-23 08:15:14 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.55:58746: Connection timed out
+2025-01-23 08:15:14 ERROR [im_tcp|input3114] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-23 08:16:49 INFO [im_tcp|input3114] connection accepted from 192.168.31.58:38748
+2025-01-23 08:19:36 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-23 08:19:36 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-23 08:19:36 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-23 08:19:36 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-23 08:19:36 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-23 08:19:36 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-23 08:19:36 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-23 08:19:36 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-23 09:11:39 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40344
+2025-01-23 09:12:02 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40342: Connection timed out
+2025-01-23 09:16:24 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.58:42708: Connection timed out
+2025-01-23 09:16:24 ERROR [im_tcp|input3114] ### PANIC at line 202 in im_tcp.c/im_tcp_event(): "invalid event type: 4 ;backtrace:;/opt/nxlog/lib/libnx.so.0(nx_append_backtrace+0x66) [0x7f4563f85cde];/opt/nxlog/lib/libnx.so.0(_nx_panic+0x135) [0x7f4563f317cb];/opt/nxlog/lib/nxlog/modules/input/im_tcp.so(+0xa5af) [0x7f456065e5af];/opt/nxlog/lib/libnx.so.0(nx_event_process+0x22b) [0x7f4563f33f62];/opt/nxlog/bin/nxlog() [0x40d9e2];/opt/nxlog/bin/nxlog() [0x40afc4];/usr/lib64/libpthread.so.0(+0x81ca) [0x7f4562e921ca];/usr/lib64/libc.so.6(clone+0x43) [0x7f45626f1e73]" ###
+2025-01-23 09:58:12 INFO [im_tcp|input12014] connection accepted from 192.168.120.34:58618
+2025-01-23 10:13:12 WARNING [im_tcp|input12014] TCP connection closed from 192.168.120.34:56894: Connection timed out
+2025-01-23 10:16:52 INFO [im_tcp|input3114] connection accepted from 192.168.31.53:59944
+2025-01-23 10:16:54 INFO [im_tcp|input3114] connection accepted from 192.168.31.51:53208
+2025-01-23 10:35:02 WARNING [om_tcp|3214_to_hf] TCP connection closed from 192.168.30.61:3214: Connection timed out
+2025-01-23 10:35:02 WARNING [om_tcp|3514_to_hf] TCP connection closed from 192.168.30.61:3514: Connection timed out
+2025-01-23 10:35:02 INFO [om_tcp|3214_to_hf] reconnecting to 192.168.30.61:3214 (last connection attempt was 8126 sec ago)
+2025-01-23 10:35:02 INFO [om_tcp|3214_to_hf] connecting to 192.168.30.61:3214
+2025-01-23 10:35:02 INFO [om_tcp|3514_to_hf] reconnecting to 192.168.30.61:3514 (last connection attempt was 8126 sec ago)
+2025-01-23 10:35:02 INFO [om_tcp|3514_to_hf] connecting to 192.168.30.61:3514
+2025-01-23 10:35:02 INFO [om_tcp|3214_to_hf] tcp connection established with 192.168.30.61:3214
+2025-01-23 10:35:02 INFO [om_tcp|3514_to_hf] tcp connection established with 192.168.30.61:3514
+2025-01-23 11:00:38 WARNING [im_tcp|input12014] TCP connection closed from 192.168.10.200:53490: Connection reset by peer
+2025-01-23 11:01:19 INFO [im_tcp|input12014] connection accepted from 192.168.10.200:53528
+2025-01-23 11:14:22 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.53:47240: Connection timed out
+2025-01-23 11:14:22 WARNING [im_tcp|input3114] TCP connection closed from 192.168.31.51:55558: Connection timed out
+2025-01-23 11:17:08 INFO [im_tcp|input2514] connection accepted from 192.168.20.222:36858
+2025-01-23 11:23:16 INFO [im_tcp|input3214] connection accepted from 192.168.32.225:40346
+2025-01-23 11:27:28 WARNING [im_tcp|input3214] TCP connection closed from 192.168.32.225:40344: Connection timed out
