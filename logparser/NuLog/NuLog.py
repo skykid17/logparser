@@ -321,11 +321,12 @@ class Batch:
 
 
 class LogTokenizer:
-    def __init__(self, filters="([ |:|\(|\)|=|,])|(core.)|(\.{2,})"):
+    def __init__(self, filters=r"([ |:|\(|\)|=|,])|(core.)|(\.{2,})"):
         self.filters = filters
         self.word2index = {"<PAD>": 0, "<CLS>": 1, "<MASK>": 2}
         self.index2word = {0: "<PAD>", 1: "<CLS>", 2: "<MASK>"}
         self.n_words = 3  # Count SOS and EOS
+
 
     def addWord(self, word):
         if word not in self.word2index:
@@ -374,11 +375,11 @@ class MaskedDataset(Dataset):
         storeColumnInfo = defaultdict(dict)
         cnt = 0
         for column in range(self.pad_len):
-            val_cnt = pd.value_counts(data_token_idx_df.iloc[:, column])
+            val_cnt = data_token_idx_df.iloc[:, column].value_counts()
             storeColumnInfo[column] = val_cnt.to_dict()
             data_token_idx_df.iloc[:, column] = data_token_idx_df.iloc[:, column].apply(
                 lambda x: changeTokenToCount(x, storeColumnInfo[column])
-            )
+            ).astype(int)
         weights = 1 - minmax_scale(
             data_token_idx_df.sum(axis=1), feature_range=(0.0, 0.75)
         )
@@ -638,7 +639,7 @@ class LogParser:
         regex = ""
         for k in range(len(splitters)):
             if k % 2 == 0:
-                splitter = re.sub(" +", "\\\s+", splitters[k])
+                splitter = re.sub(" +", r"\\s+", splitters[k])
                 regex += splitter
             else:
                 header = splitters[k].strip("<").strip(">")
@@ -697,7 +698,7 @@ class LogParser:
                 batch.trg_mask.to(DEVICE),
             )
 
-            loss = loss_compute(out, batch.trg_y.to(DEVICE), batch.ntokens)
+            loss = loss_compute(out, batch.trg_y.to(DEVICE).long(), batch.ntokens)
             total_loss += loss
             total_tokens += batch.ntokens
             tokens += batch.ntokens

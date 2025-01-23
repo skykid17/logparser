@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 
 import sys
-sys.path.append('../../')
+sys.path.append('C:/Users/georgelai/Documents/GItHub/logparser')
+
 from logparser.NuLog import LogParser
 
-input_dir = '../../data/loghub_2k/HDFS/' # The input directory of log file
+
+input_dir = './data/loghub_2k/HDFS/' # The input directory of log file
 output_dir = 'demo_result/'  # The output directory of parsing results
 log_file = 'HDFS_2k.log'  # The input log file name
 log_format = '<Date> <Time> <Pid> <Level> <Component>: <Content>'  # HDFS log format
@@ -14,7 +16,7 @@ regex = [
     r'(/|)([0-9]+\.){3}[0-9]+(:[0-9]+|)(:|)', # IP
     r'(?<=[^A-Za-z0-9])(\-?\+?\d+)(?=[^A-Za-z0-9])|[0-9]+$', # Numbers
 ]
-filters = "(\s+blk_)|(:)|(\s)"
+filters = r"(\s+blk_)|(:)|(\s)"
 k = 15
 nr_epochs = 5 # Number of epochs to run
 num_samples = 0
