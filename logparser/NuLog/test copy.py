@@ -21,4 +21,4 @@ nr_epochs = 1 # Number of epochs to run
 num_samples = 0
 
 parser = LogParser(log_format=log_format, indir=input_dir, outdir=output_dir, filters=filters, k=k)
-parser.parse(log_file, nr_epochs=nr_epochs, num_samples=num_samples)
+parser.load_data()

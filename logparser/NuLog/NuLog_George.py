@@ -642,6 +642,7 @@ class LogParser:
 
     def load_data(self):
         headers, regex = self.generate_logformat_regex(self.log_format)
+        print(regex)
         self.df_log = self.log_to_dataframe(
             os.path.join(self.path, self.logName), regex, headers, self.log_format
         )
